@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.18220fb8.css",
+    "main.js": "/portfolio/static/js/main.c15173b5.js",
+    "static/js/453.b0cd7502.chunk.js": "/portfolio/static/js/453.b0cd7502.chunk.js",
+    "static/media/prom-2020.png": "/portfolio/static/media/prom-2020.002a798264bacabb3ecf.png",
+    "static/media/dunveil-2019.png": "/portfolio/static/media/dunveil-2019.786a3cd12db57e2f551f.png",
+    "static/media/COP-2021.jpg": "/portfolio/static/media/COP-2021.41ae7cedfd5472ca526f.jpg",
+    "static/media/blue.png": "/portfolio/static/media/blue.9b293a4a6ef065903a8f.png",
+    "static/media/game-start.mp3": "/portfolio/static/media/game-start.8385beb757ddbf6be4da.mp3",
+    "static/media/logo-2.png": "/portfolio/static/media/logo-2.3d193e49973524110d0d.png",
+    "index.html": "/portfolio/index.html",
+    "main.18220fb8.css.map": "/portfolio/static/css/main.18220fb8.css.map",
+    "main.c15173b5.js.map": "/portfolio/static/js/main.c15173b5.js.map",
+    "453.b0cd7502.chunk.js.map": "/portfolio/static/js/453.b0cd7502.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18220fb8.css",
+    "static/js/main.c15173b5.js"
+  ]
+}
